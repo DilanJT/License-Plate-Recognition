@@ -3,9 +3,9 @@ This project is an open source project.
 - Create your own branch and contribute
 
 How to setup
-`poetry install` - install all the dependencies
-`poetry shell` - to activate the virtual environment
+- `poetry install` - install all the dependencies
+- `poetry shell` - to activate the virtual environment
 
 If you haven't installed poetry yet
-`pip install poetry`
+- `pip install poetry`
 
